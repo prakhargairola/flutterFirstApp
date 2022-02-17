@@ -1,6 +1,6 @@
 # flutter_journey_begin
 
-A new Flutter project.
+A first Flutter project.
 
 ## Getting Started
 
